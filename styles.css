@@ -1,0 +1,37 @@
+body {
+    background-color: goldenrod;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.card {
+    background-color: white;
+    width: 350px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 22px;
+}
+
+.quote {
+    font-size: 20px;
+    color: navy;
+    margin-top: 30px;
+}
+
+h3 {
+    color: gray;
+}
+
+button {
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+}
